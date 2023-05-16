@@ -2,6 +2,8 @@
 
 This is a mobile application that aims to replicate the basic functionality and user interface of the popular social media platform, Instagram. It is built using React Native and Expo.
 
+![image](https://github.com/4mritGiri/Instagram-Clone/blob/master/Screen%20Shot/3.jpg)
+
 ## Features
 
 User authentication: Users can sign up, log in, and log out.
@@ -78,5 +80,26 @@ This project is licensed under the MIT License.
 
 Feel free to customize and update the README.md file based on your project's specific details and requirements.
 
+![image](https://github.com/4mritGiri/Instagram-Clone/blob/master/Screen%20Shot/1.jpg)
+![image](https://github.com/4mritGiri/Instagram-Clone/blob/master/Screen%20Shot/2.jpg)
+
+![image](https://github.com/4mritGiri/Instagram-Clone/blob/master/Screen%20Shot/3.jpg)
+
+
+![image](https://github.com/4mritGiri/Instagram-Clone/blob/master/Screen%20Shot/4.jpg)
+
+![image](https://github.com/4mritGiri/Instagram-Clone/blob/master/Screen%20Shot/5.jpg)
+
+![image](https://github.com/4mritGiri/Instagram-Clone/blob/master/Screen%20Shot/6.jpg)
+
+![image](https://github.com/4mritGiri/Instagram-Clone/blob/master/Screen%20Shot/7.jpg)
+
+![image](https://github.com/4mritGiri/Instagram-Clone/blob/master/Screen%20Shot/8.jpg)
+
+![image](https://github.com/4mritGiri/Instagram-Clone/blob/master/Screen%20Shot/9.jpg)
+
+![image](https://github.com/4mritGiri/Instagram-Clone/blob/master/Screen%20Shot/10.jpg)
+
+![image](https://github.com/4mritGiri/Instagram-Clone/blob/master/Screen%20Shot/11.jpg)
 
 
